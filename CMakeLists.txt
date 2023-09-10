@@ -13,4 +13,13 @@ add_executable(FirstEasy main.cpp
         сpp_files/11_itc_sqrt.cpp
         сpp_files/8_itc_min.cpp
         сpp_files/17_itc_ispositive.cpp
-        сpp_files/9_itc_fmax.cpp)
+        сpp_files/9_itc_fmax.cpp
+        сpp_files/18_itc_ispositive_d.cpp
+        сpp_files/4_itc_fabs.cpp
+        сpp_files/5_itc_revnbr.cpp
+        сpp_files/10_itc_fmin.cpp
+        сpp_files/12_itc_skv.cpp
+        сpp_files/13_itc_spr.cpp
+        сpp_files/14_itc_str.cpp
+        сpp_files/15_itc_scir.cpp
+        сpp_files/16_itc_pow.cpp)
