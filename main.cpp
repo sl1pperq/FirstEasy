@@ -1,5 +1,5 @@
 #include <iostream>
-#include "easy.h"
+#include "сpp_files/easy.h"
 using namespace std;
 
 int main() {

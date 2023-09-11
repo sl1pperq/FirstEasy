@@ -4,7 +4,7 @@ project(FirstEasy)
 set(CMAKE_CXX_STANDARD 17)
 
 add_executable(FirstEasy main.cpp
-        easy.h
+        сpp_files/easy.h
         сpp_files/1_itc_name.cpp
         сpp_files/2_itc_fio.cpp
         сpp_files/3_itc_abs.cpp
