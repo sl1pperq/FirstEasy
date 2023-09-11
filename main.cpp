@@ -3,6 +3,6 @@
 using namespace std;
 
 int main() {
-    cout << itc_pow(2, 3);
+    cout << itc_sqrt(4000000000000000);
     return 0;
 }
