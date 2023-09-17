@@ -7,6 +7,6 @@ int itc_str(int a, int b, int c) {
         return -1;
     }
     int p = (a + b + c) / 2;
-
-    return sqrt(p * (p - a) * (p - b) * (p - c));
+    int s = sqrt(p * (p - a) * (p - b) * (p - c));
+    return s;
 }

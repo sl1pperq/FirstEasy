@@ -1,12 +1,8 @@
-#include <string>
-using namespace std;
-
 int itc_revnbr(int num) {
-    int rev = 0, last;
+    int result = 0;
     while (num > 0) {
-        last = num % 10;
-        rev = rev * 10 + last;
-        num = num / 10;
+        result = result * 10 + num % 10;
+        num /= 10;
     }
-    return rev;
+    return result;
 }
